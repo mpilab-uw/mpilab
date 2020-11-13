@@ -6,20 +6,18 @@ title: Jean-Pierre Hickey
 superuser: true
 
 # Role/position
-role:
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: University of Waterloo
-  url: ""
+  url: "www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Add interests
 
 education:
   courses:
@@ -29,15 +27,15 @@ education:
   - course: Postdoctoral Fellow
     institution: Stanford University
     year: 2013-14
-  - course: PhD in Mechanical Engineering
+  - course: Ph.D. in Mechanical Engineering
     institution: Royal Military College of Canada
     year: 2013
-  - course: MSc in Computational, Mechanical and Process Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Computational, Mechanical and Process Engineering
+    institution:  Technische Universitaet Darmstadt
+    year: 2007
+  - course: B.Ing. in Mechanical Engineering
+    institution: Ecole Polytechnique de Montreal
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
