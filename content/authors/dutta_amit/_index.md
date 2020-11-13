@@ -6,7 +6,7 @@ title: Amit Dutta
 superuser: false
 
 # Role/position
-role: MASc
+role: MASc (co-supervision Prof. Yarusevych)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ interests:
 
 education:
   courses:
-  - course: M.A.Sc. in Mechanical Engineering (co-supervision Prof. Yarusevych)
+  - course: M.A.Sc. in Mechanical Engineering
     institution:  University of Waterloo
     year: 2019
   - course: M.A.Sc. in Mechanical Engineering
