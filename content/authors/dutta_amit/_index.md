@@ -6,7 +6,7 @@ title: Amit Dutta
 superuser: false
 
 # Role/position
-role: MASc
+role: MASc (co-supervision: Prof. Yarusevych)
 
 # Organizations/Affiliations
 organizations:
@@ -21,6 +21,9 @@ interests:
 
 education:
   courses:
+  - course: M.A.Sc. in Mechanical Engineering
+    institution:  University of British Columbia (UBC)- Okanagan
+    year: 2017
   - course: M.A.Sc. in Mechanical Engineering
     institution:  University of British Columbia (UBC)- Okanagan
     year: 2017
