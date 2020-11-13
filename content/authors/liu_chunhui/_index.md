@@ -6,7 +6,7 @@ title: Chunhui Liu
 superuser: false
 
 # Role/position
-role: MASc (co-supervision: Prof. Wu)
+role: MASc
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ interests:
 
 education:
   courses:
-  - course: M.A.Sc. in Mechanical Engineering
+  - course: M.A.Sc. in Mechanical Engineering  (co-supervision Prof. Wu)
     institution:  University of Waterloo
     year: 2019
   - course: M.A.Sc. Aerospace Engineering

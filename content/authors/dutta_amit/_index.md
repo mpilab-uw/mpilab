@@ -21,7 +21,7 @@ interests:
 
 education:
   courses:
-  - course: M.A.Sc. in Mechanical Engineering (co-supervision: Prof. Yarusevych)
+  - course: M.A.Sc. in Mechanical Engineering (co-supervision Prof. Yarusevych)
     institution:  University of Waterloo
     year: 2019
   - course: M.A.Sc. in Mechanical Engineering
