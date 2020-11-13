@@ -14,7 +14,7 @@ organizations:
   url: "www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Jean-Pierre Hickey is an Assistant Professor in Mechanical and Mechatronics Engineering at the University of Waterloo in Ontario, Canada. He is drawn to the study of complex, multi-physics fluid problems involving the strong coupling of thermodynamics, acoustics, chemical kinetics, and, almost invariably, turbulence. These tightly-coupled problems are studied in the context of aerospace and aeronautical applications
 
 interests:
 - Add interests
@@ -70,8 +70,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Principal Investigators
-- URA
 ---
 
 ADD HERE
