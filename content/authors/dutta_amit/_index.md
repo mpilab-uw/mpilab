@@ -22,8 +22,8 @@ interests:
 education:
   courses:
   - course: M.A.Sc. in Mechanical Engineering
-    institution:  University of British Columbia (UBC)- Okanagan
-    year: 2017
+    institution:  University of Waterloo
+    year: 2019
   - course: M.A.Sc. in Mechanical Engineering
     institution:  University of British Columbia (UBC)- Okanagan
     year: 2017
