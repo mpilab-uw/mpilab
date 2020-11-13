@@ -6,11 +6,11 @@ title: Jean-Pierre Hickey
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Waterloo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
