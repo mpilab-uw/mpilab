@@ -22,11 +22,11 @@ day_night = true
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "Rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -97,7 +97,7 @@ address = {street = "200 University Ave W.", city = "Waterloo", region = "ON", p
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "80.545033", longitude = "43.471728"}
+coordinates = {latitude = "43.471728", longitude = "-80.545033"}
 
 # Directions for visitors to locate you.
 directions = "ERC 2003"
