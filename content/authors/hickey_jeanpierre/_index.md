@@ -23,10 +23,16 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Research Scientist
+    institution: German Aerospace Center (DLR)
+    year: 2014-15
+  - course: Postdoctoral Fellow
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+    year: 2013-14
+  - course: PhD in Mechanical Engineering
+    institution: Royal Military College of Canada
+    year: 2013
+  - course: MSc in Computational, Mechanical and Process Engineering
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
