@@ -6,7 +6,7 @@ title: Amit Dutta
 superuser: false
 
 # Role/position
-role: MASc (co-supervision: Prof. Yarusevych)
+role: MASc
 
 # Organizations/Affiliations
 organizations:
@@ -21,11 +21,11 @@ interests:
 
 education:
   courses:
-  - course: M.A.Sc. in Mechanical Engineering
+  - course: M.A.Sc. in Mechanical Engineering (co-supervision: Prof. Yarusevych)
     institution:  University of Waterloo
     year: 2019
   - course: M.A.Sc. in Mechanical Engineering
-    institution:  University of British Columbia (UBC)- Okanagan
+    institution:  University of British Columbia (UBC)-Okanagan
     year: 2017
   - course: B.E. (Hons.) in Chemical Engineering
     institution: Birla Institute of Technology and Science (BITS Pilani)
