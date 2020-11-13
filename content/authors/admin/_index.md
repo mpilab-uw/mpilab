@@ -6,7 +6,7 @@ title: Multi-Physics Interaction Lab
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Mechanical and Mechatronics Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biography
+bio: Complex problems in fluid dynamics.
 
 interests:
 - Test
@@ -54,5 +54,4 @@ highlight_name: false
 user_groups:
 
 ---
-
-<ADD HERE>
+Welcome to the Multi-Physics Interaction Lab at the University of Waterloo. Started in 2016, our research focuses on high fidelity numerical simulations of flows, which are characterized by a strong interaction between thermodynamics, acoustics and/or chemical kinetics. Using a broad toolbox in computational physics, but primarily relying on Large-Eddy (LES) and Direct Numerical Simulations (DNS), we study the interaction between these physical phenomena in canonical flows using first-principle based approaches. The objective is to understand the coupling mechanisms and improve the predictive models for engineering use. Typical problems studied are: thermosensitive cavitation, supercritical thermodynamics, transcritical heat transfer, thermoacoustics, and transitional high-speed flows. Our expertise lies the field of rocket propulsion but finds complementary tangencies in aerospace, nuclear and automotive engineering.
