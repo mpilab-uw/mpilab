@@ -32,5 +32,5 @@ publishDate: '2020-11-13T01:57:30.841509Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Bulletin of the American Physical Society*'
+publication: '*AIAA Journal*'
 ---
