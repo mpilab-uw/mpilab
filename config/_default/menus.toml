@@ -10,12 +10,12 @@
 
 [[main]]
   name = "People"
-  url = "#people"
+  url = "/People-MPILAB"
   weight = 20
 
 [[main]]
     name = "Publications"
-    url = "/People-MPILAB"
+    url = "#featured"
     weight = 30
 
 [[main]]
