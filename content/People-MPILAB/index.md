@@ -6,14 +6,9 @@ title = "People"
 +++
 
 
-
-#### Professor
-
-<img src="/home/j/myersresearchgroup.github.io/content/People-Genetic-Logic-Lab/images/myers.jpg" style="zoom: 25%;" /> Professor Myers
-
 #### Graduate Students 
 
-Pedro Fontanarrosa, Phd Candidate 
+Chunhui Liu, Phd Candidate
 
 Jet Mante, Phd Candidate
 
@@ -21,7 +16,7 @@ Lukas Buecherl, Phd Candidate
 
 Logan Terry, MS
 
-#### Undergraduate Students 
+#### Undergraduate Students
 
 James Scholz
 
