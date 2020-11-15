@@ -16,22 +16,22 @@ subtitle = "How we can help?"
 
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
-  name = "CFD-based Conceptual studies"
-  description = "fffCFD for desig"
+  icon_pack = "fas"
+  name = "Conceptual studies"
+  description = "Exploration of conceptual ideas using a first principles approach"
 
 [[feature]]
   icon = "paper-plane"
   icon_pack = "fas"
   name ="Low-Order Modelling"
-  description = "10%"
+  description = "Propose reduced-order models for complex physical systems"
 
 
 [[feature]]
   icon =   "space-shuttle"
   icon_pack = "fas"
   name = "Multiphysics and complex flows"
-  description = "10%"
+  description = "Numerical studies of complex multiphysics flows"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -56,5 +56,5 @@ subtitle = "How we can help?"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "White"
+  color = "Gray"
 +++
