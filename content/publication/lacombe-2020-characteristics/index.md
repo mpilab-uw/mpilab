@@ -6,8 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Francis Lacombe
+- Subhajit Roy
+- Krishnendu Sinha
+- Sebastian Karl
 - Jean-Pierre Hickey
-tags: []
+tags: ["High-Speed Flow"]
 categories: []
 date: '2020-11-01'
 lastmod: 2020-11-12T20:57:31-05:00
