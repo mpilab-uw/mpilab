@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Industrial Research: How we can help?"
-subtitle = ""
+title = "Industrial Research"
+subtitle = "How we can help?"
 
 # Showcase personal skills or business features.
 #
@@ -17,21 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fab"
-  name = "Conceptual studies"
+  name = "CFD-based Conceptual studies"
   description = "fffCFD for desig"
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "CFD for design"
-  description = "100%"  
 
 [[feature]]
   icon = "paper-plane"
   icon_pack = "fas"
   name ="Low-Order Modelling"
   description = "10%"
-
 
 
 [[feature]]
@@ -56,4 +49,12 @@ subtitle = ""
 #  name = "Surfing"
 #  description = "90%"
 
+design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  color = "White"
 +++
