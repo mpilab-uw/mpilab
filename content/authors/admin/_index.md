@@ -17,7 +17,7 @@ organizations:
 bio: Complex problems in fluid dynamics.
 
 interests:
--TEST
+
 
 
 # Social/Academic Networking
