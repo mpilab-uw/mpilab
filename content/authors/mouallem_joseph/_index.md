@@ -17,7 +17,7 @@ organizations:
 bio:
 
 interests:
-- Current Position: Princeton University 
+- (Current Position Princeton University)
 
 education:
   courses:
