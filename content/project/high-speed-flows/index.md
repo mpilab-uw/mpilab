@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SBOL"
-summary: "Synthetic Biology Open Language"
-authors: [Chris Myers]
+title: "High-speed flow"
+summary: "Turbulence in complex high-speed flows"
+authors: []
 tags: [Test]
 categories: []
 date: 2020-09-07T10:03:07-03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://sbolstandard.org/"
+external_link:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,4 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
