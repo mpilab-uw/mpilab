@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
 title = "Industrial Research"
-subtitle = "How we can help?"
+subtitle = "How we can help"
 
 # Showcase personal skills or business features.
 #
