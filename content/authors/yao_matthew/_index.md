@@ -17,7 +17,7 @@ organizations:
 bio:
 
 interests:
-- Add interests
+- Current Position: CalTech PhD
 
 education:
   courses:

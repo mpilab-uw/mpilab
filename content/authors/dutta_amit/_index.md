@@ -17,7 +17,7 @@ organizations:
 bio:
 
 interests:
-- Add interests
+- Current Position: Dyson (UK)
 
 education:
   courses:

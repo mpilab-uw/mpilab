@@ -6,7 +6,7 @@ title: Chunhui Liu
 superuser: false
 
 # Role/position
-role: MASc
+role: MASc (co-supervision Prof Wu)
 
 # Organizations/Affiliations
 organizations:
