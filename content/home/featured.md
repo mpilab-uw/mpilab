@@ -67,5 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 {{% callout note %}}
-Complete publications [filtering publications](./publication/).
+[Click here for publications list](./publication/).
 {{% /callout %}}
