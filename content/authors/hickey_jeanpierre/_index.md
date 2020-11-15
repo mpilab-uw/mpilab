@@ -14,10 +14,15 @@ organizations:
   url: "www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Jean-Pierre Hickey is an Assistant Professor in Mechanical and Mechatronics Engineering at the University of Waterloo in Ontario, Canada. He is drawn to the study of complex, multi-physics fluid problems involving the strong coupling of thermodynamics, acoustics, chemical kinetics, and, almost invariably, turbulence. These tightly-coupled problems are studied in the context of aerospace and aeronautical applications
+bio: Dr. Jean-Pierre Hickey is an Assistant Professor in Mechanical and Mechatronics Engineering at the University of Waterloo in Ontario, Canada. He is drawn to the study of complex, multi-physics fluid problems involving the strong coupling of thermodynamics, acoustics, chemical kinetics, and, almost invariably, turbulence. These tightly-coupled problems are studied in the context of aerospace and aeronautical applications.
 
 interests:
-- Add interests
+- High Fidelity Numerical Simulations
+- Supercritical Thermodynamics
+- Aeroacoustics
+- High-Speed and Reactive Flows
+
+
 
 education:
   courses:
@@ -61,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "j6hickey_at_uwaterloo.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -72,4 +77,4 @@ user_groups:
 - Researchers
 ---
 
-ADD HERE
+Dr. Jean-Pierre Hickey is an Assistant Professor in Mechanical and Mechatronics Engineering at the University of Waterloo in Ontario, Canada. He is drawn to the study of complex, multi-physics fluid problems involving the strong coupling of thermodynamics, acoustics, chemical kinetics, and, almost invariably, turbulence. These tightly-coupled problems are studied in the context of aerospace and aeronautical applications
