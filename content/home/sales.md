@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "What do we do"
+title = "Industrial Research: How we can help?"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "brain"
   icon_pack = "fab"
   name = "Conceptual studies"
   description = "fffCFD for desig"
@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
 
 [[feature]]
-  icon =
+  icon = "paper-plane"
   icon_pack = "fas"
   name ="Low-Order Modelling"
   description = "10%"
@@ -35,7 +35,7 @@ subtitle = ""
 
 
 [[feature]]
-  icon =   "paper-plane"
+  icon =   "space-shuttle"
   icon_pack = "fas"
   name = "Multiphysics and complex flows"
   description = "10%"
