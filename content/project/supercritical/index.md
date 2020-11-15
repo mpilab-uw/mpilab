@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "High-speed flow"
-summary: "Turbulence in complex high-speed flows"
-authors: []
-tags: [high-speed]
+title: "Supercritical thermodynamics"
+summary: "Study of reactive and non-reactive flows under high-pressures."
+authors: [Jean-Pierre Hickey]
+tags: [supercritical]
 categories: []
 date: 2020-09-07T10:03:07-03:00
 

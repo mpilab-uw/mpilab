@@ -27,11 +27,11 @@ subtitle = "Active themes"
 
    [[content.filter_button]]
      name = "High-speed Flows"
-     tag = "High-speed Flows"
+     tag = "high-speed"
 
    [[content.filter_button]]
      name = "Supercritical Thermodynamics"
-     tag = "Supercritical Thermodynamics"
+     tag = "Supercritical"
 
    [[content.filter_button]]
        name = "Transpiration Cooling"
