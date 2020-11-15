@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Industrial Research"
 subtitle = "How we can help?"
@@ -49,12 +49,12 @@ subtitle = "How we can help?"
 #  name = "Surfing"
 #  description = "90%"
 
-[design.background]
+#[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "Gray"
+  #  color = "Gray"
 +++
