@@ -5,7 +5,7 @@ name = "Dark"
 light = false
 
 # Primary
-primary = "hsl(250, 90%, 47%)"
+primary = "hsl(222, 90%, 67%)"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
