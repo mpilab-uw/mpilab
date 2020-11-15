@@ -21,9 +21,9 @@ subtitle = "Active themes"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[content.filter_button]]
-     name = "All"
-     tag = "*"
+#  [[content.filter_button]]
+#     name = "All"
+#     tag = "*"
 
    [[content.filter_button]]
      name = "High-speed Flows"
@@ -31,7 +31,7 @@ subtitle = "Active themes"
 
    [[content.filter_button]]
      name = "Supercritical Thermodynamics"
-     tag = "Supercritical"
+     tag = "supercritical"
 
    [[content.filter_button]]
        name = "Transpiration Cooling"
