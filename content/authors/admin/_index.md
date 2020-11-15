@@ -17,6 +17,7 @@ organizations:
 bio: Complex problems in fluid dynamics.
 
 interests:
+-TEST
 
 
 # Social/Academic Networking
@@ -44,4 +45,4 @@ highlight_name: false
 user_groups:
 
 ---
-Welcome to the Multi-Physics Interaction Lab at the University of Waterloo. Started in 2016, our research focuses on high-fidelity numerical simulations of turbulent flows, which are characterized by a strong coupling between thermodynamics, acoustics and chemical kinetics. We seek to understand, model, and ultimately predict these complex turbulent flows in engineering application. Our focus lies the fields of rocket propulsion, aerospace.
+Welcome to the Multi-Physics Interaction Lab at the University of Waterloo. Started in 2016, our research focuses on high-fidelity numerical simulations of turbulent flows, which are characterized by a strong coupling between thermodynamics, acoustics and chemical kinetics. We seek to understand, model, and ultimately predict these complex turbulent flows in engineering application. Our focus lies tackling challenges in rocket propulsion and aerospace.
