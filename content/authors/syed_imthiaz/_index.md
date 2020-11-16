@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
--
+- Researchers
 ---
 
 Imthiaz Syed is a MASc student working at the Multi-Physics Interaction Lab (MPILab) at the University of Waterloo, Canada. His research focusses on studying the key assumptions in near-wall turbulence to more accurately predict aerothermal heating in high-speed flows. He is particularly interested in understanding compressible axis-symmetric boundary layer theory, and the implementation of compressible scaling laws. Recently his work is focussed on the quantification of numerical and modelling errors in supersonic cooled-wall boundary layer flows, in both open-source and commercial RANS solvers.
