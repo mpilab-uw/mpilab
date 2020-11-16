@@ -1,12 +1,12 @@
 ---
 # Display name
-title: <Name Student>
+title: Alexander Bukva
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MASc, PhD, USRA, URA, Postdoc, Researcher
+role: MASc
 
 # Organizations/Affiliations
 organizations:
@@ -14,19 +14,20 @@ organizations:
   url: "www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Currently investigating transpiration cooling using different CFD models
 
 interests:
-- <list topics of scientific interest>
+- Computational fluid dynamics
+- Transpiration cooling
 
 education:
   courses:
   - course: M.A.Sc. in Mechanical Engineering
     institution:  University of Waterloo
-    year: 2019
+    year: 2021
   - course: B.Sc. in Mechanical Engineering
     institution: University of Waterloo
-    year: 2018
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "abukva@uwaterloo.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -61,7 +62,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
--
+- Researchers
 ---
-
-<Enter short bio, 2 or 3 lines. Please write out thesis/research/primary domain of interest>

@@ -41,13 +41,17 @@ subtitle = "Active themes"
            name = "Aeroacoustics"
            tag = "Aeroacoustics"
 
-           [[content.filter_button]]
-               name = "Nanothermite-based propulsion"
-               tag = "nanothermite"           
+      [[content.filter_button]]
+         name = "Nanothermite-based propulsion"
+         tag = "nanothermite"           
+
+      [[content.filter_button]]
+         name = "Shock-thrust vector control"
+         tag = "TVC"            
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
