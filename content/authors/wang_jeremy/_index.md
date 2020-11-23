@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Jeremy Wang is an aerospace engineer and organizational leader with a knack for tech start-ups. Jeremy's technical expertise takes an applied mathematics and computer science approach to solving problems in aerospace science and engineering, from the fundamental physics of non-ideal shock tubes to detect-and-avoid algorithms for autonomous aircraft under the FARs Part 135. His PhD is on supercritical fluids and combustion including analytical solutions, GPU acceleration, and machine learning techniques.
+Jeremy Wang is an aerospace engineer and organizational leader with a knack for tech start-ups. Jeremy's technical expertise takes an applied mathematics and computer science approach to solving problems in aerospace science and engineering, from the fundamental physics of non-ideal shock tubes to detect-and-avoid algorithms for autonomous aircraft under the FARs Part 135. His PhD is on supercritical fluids and combustion &colon analytical solutions, GPU acceleration, and machine learning techniques.
