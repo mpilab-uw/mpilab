@@ -14,7 +14,7 @@ organizations:
   url: "www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 - compressible flows with non-ideal thermodynamics
@@ -46,7 +46,7 @@ social:
 - icon: squarespace
   icon_pack: fab
   link: https://www.jchw.me
-  
+
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
--
+- Researchers
 ---
 
-Jeremy Wang is an aerospace engineer and organizational leader with a knack for tech start-ups. Jeremy's technical expertise takes an applied mathematics and computer science approach to solving problems in aerospace science and engineering, from the fundamental physics of non-ideal shock tubes to detect-and-avoid algorithms for autonomous aircraft under the FARs Part 135. His PhD is on supercritical fluids and combustion: analytical solutions, GPU acceleration, and machine learning techniques. 
+Jeremy Wang is an aerospace engineer and organizational leader with a knack for tech start-ups. Jeremy's technical expertise takes an applied mathematics and computer science approach to solving problems in aerospace science and engineering, from the fundamental physics of non-ideal shock tubes to detect-and-avoid algorithms for autonomous aircraft under the FARs Part 135. His PhD is on supercritical fluids and combustion including analytical solutions, GPU acceleration, and machine learning techniques.
