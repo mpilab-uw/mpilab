@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Nanothermite
 summary: Two-dimensional axisymmetric code for the simulation of a porous nanothermite pellet. The code is written in Python by Joseph (Mark Epps) and can be
-<a href="https://github.com/jmreppsUWGrad/2D-Nanothermite> downloaded here</a>
+<a href="https://github.com/jmreppsUWGrad/2D-Nanothermite"> downloaded here</a>
 weight: 1
 
 # Page metadata.
