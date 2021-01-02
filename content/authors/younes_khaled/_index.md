@@ -26,8 +26,8 @@ interests:
 education:
   courses:
   - course: M.Sc. in Mechanical Engineering
-      institution: University of Waterloo
-      year: 2019-present
+    institution: University of Waterloo
+    year: 2019-present
   - course: B.A.Sc. in Mechanical Engineering
     institution: University of Waterloo
     year: 2017
