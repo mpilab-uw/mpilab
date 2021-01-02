@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Training
+linktitle: Training and On-boarding for URAs
 summary: test
 weight: 1
 
@@ -19,6 +19,10 @@ menu:
   example:
     name: Overview
     weight: 1
+
+    example:
+      name: TEST
+      weight: 1
 ---
 
 ## Flexibility

@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Training
+linktitle: Training and On-boarding for Graduate Students and Postdocs
 summary: test
 weight: 1
 
