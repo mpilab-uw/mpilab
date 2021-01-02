@@ -20,14 +20,14 @@ interests:
 - High-speed Flows
 - Aerothermal Heating
 - Computational Fluid Dynamics (CFD)
-- Near-wall Compressible Turbulence
-- Axis-Symmetric Boundary Layer Theory
+- Nearwall Compressible Turbulence
+- AxisSymmetric Boundary Layer Theory
 
 education:
   courses:
   - course: M.Sc. in Mechanical Engineering
       institution: University of Waterloo
-      year: 2019-present
+      year: 2019 present
   - course: B.A.Sc. in Mechanical Engineering
     institution: University of Waterloo
     year: 2019
