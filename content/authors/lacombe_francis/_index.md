@@ -29,8 +29,8 @@ education:
     institution:  University of Waterloo
     year: 2017-present
   - course: M.Sc. in Mechanical Engineering
-      institution: Ecole Polytechnique Montreal
-      year: 2017
+    institution: Ecole Polytechnique Montreal
+    year: 2017
   - course: B.Ing. in Mechanical Engineering
     institution: Ecole Polytechnique Montreal
     year: 2017
