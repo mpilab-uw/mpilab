@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Training and On-boarding for Graduate Students and Postdocs
-summary: test
+summary: Provides key information about on-boarding in the MPILAB at the University of Waterloo
 weight: 1
 
 # Page metadata.
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
+  Test_1:
     name: Overview
     weight: 1
 ---
@@ -28,14 +28,11 @@ This guide is meant to help you start your journey as a new graduate student or 
 * **<a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/new-students">On-boarding for new students</a>**
 * **Website update**
 * **Opening Compute Canada Account**
-
-
+---
 menu:
-  example:
-    name: test
+  Test:
+    name: Overview
     weight: 1
-
-
 
 
 ## Clear Thinking
@@ -48,7 +45,7 @@ Research is not easy. It demands: time, patience, dedication, persistence.
 
 
 ## Communication
-Writing 
+Writing
 Figure generation
 
 Slack channel: mpilab-workspace.slack.com
