@@ -27,15 +27,41 @@ This guide is meant to help you start your journey as a new graduate student or 
 ### Initial steps
 * **<a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/new-students">On-boarding for new students</a>**
 * **Website update**
-* **TEST**
+* **Opening Compute Canada Account**
+
+
+menu:
+  example:
+    name: test
+    weight: 1
+
+## Clear Thinking
+Clarity of thought is one
 
 
 ## Communication
 
+Slack channel: mpilab-workspace.slack.com
+Email group serve: mpilab@googlegroups.com
+
+
+## Technical Skills
+
+
+
+
+## Computer systems
+Storage  NAS
+Computer usage
+Compute Canada
+git repository
+
+
+
+## Website update
+To update your website, please cut-paste the following and modify
 
 ```toml
-[[main]]
----
 # Display name
 title: <Name Student>
 
