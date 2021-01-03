@@ -35,17 +35,30 @@ menu:
     name: test
     weight: 1
 
+
+
+
 ## Clear Thinking
 Clarity of thought is one
 
 
+## Keeping balance
+Research is not easy. It demands: time, patience, dedication, persistence.
+
+
+
 ## Communication
+Writing 
+Figure generation
 
 Slack channel: mpilab-workspace.slack.com
 Email group serve: mpilab@googlegroups.com
 
 
 ## Technical Skills
+
+
+
 
 
 
