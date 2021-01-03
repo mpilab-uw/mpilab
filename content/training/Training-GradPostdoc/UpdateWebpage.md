@@ -1,5 +1,5 @@
 ---
-title: Update website
+title: Updatewebsite
 linktitle: Tips for researchers
 toc: true
 type: docs

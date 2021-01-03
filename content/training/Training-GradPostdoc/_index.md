@@ -5,7 +5,7 @@ summary: Provides key information about on-boarding in the MPILAB at the Univers
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Training
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   Test_1:
-    name: Overview
+    name: Training
     weight: 1
 ---
 
