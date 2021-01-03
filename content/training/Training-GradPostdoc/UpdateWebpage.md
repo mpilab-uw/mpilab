@@ -1,62 +1,26 @@
 ---
-# Course title, summary, and position.
-linktitle: Training and On-boarding for Graduate Students and Postdocs
-summary: Provides key information about on-boarding in the MPILAB at the University of Waterloo
-weight: 1
-
-# Page metadata.
-title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
+title: Update website
+linktitle: Tips for researchers
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
 menu:
-  Test_1:
-    name: Overview
+  example:
+    parent: Training
     weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
-
-## Summary
-This guide is meant to help you start your journey as a new graduate student or postdoctoral fellow in the MPILAB at the University of Waterloo.
-
-### Initial steps
-* **<a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/new-students">On-boarding for new students</a>**
-* **Website update**
-* **Opening Compute Canada Account**
+The MPILAB maintains a website to promote the research activities in the lab. It's everyones responsibility to maintain this information as up-to-date as possible. The website is maintained in a <a href="https://github.com/mpilab-uw/mpilab.git">github repository</a> and hosted on <a href="https://netlify.com">netlify.com</a>. The information for the team members are located '/mpilab/content/authors/' in a folder with name 'lastname_firstname'. In each folder
 
 
-
-## Communication
-Writing
-Figure generation
-
-Slack channel: mpilab-workspace.slack.com
-Email group serve: mpilab@googlegroups.com
-
-
-## Technical Skills
-
-
-
-
-
-
-
-## Computer systems
-Storage  NAS
-Computer usage
-Compute Canada
-git repository
-
-
-
-## Website update
-To update your website, please cut-paste the following and modify
+## Easy guide to update website
+To update your website, please:
+- cut-paste the following and modify accordingly and save as " _index.md "
+- select a picture of yourself and save as " _index.md "
+Send both " _index.md " and " _index.md " to JPH.
 
 ```toml
 # Display name
