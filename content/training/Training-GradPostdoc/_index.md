@@ -51,7 +51,7 @@ Familiarize yourself with a number of tools used to facilitate the research
 
 ### Coding
 Coding is always just around the corner. Sometimes the coding involves extending open-source software, although most of the time its used for post-processing (e.g. figure generation).
-* **<a href="https://docs.conda.io/en/latest/">Python</a>**: Python is our go-to tool. Even if most operating systems come with a pre-installed  version of python, it's advised to install the python via the Conda environment system.
+* **<a href="https://docs.conda.io/en/latest/">Python</a>**: Python is our go-to tool. Even if most operating systems come with a pre-installed  version of python, it's advised to install the python via the Conda environment system. For figures, we generally rely on the <a href="https://anaconda.org/anaconda/matplotlib">matplotlib package</a> which is trivially installed with Conda.
 
 
 
