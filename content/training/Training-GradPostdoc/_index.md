@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Training and On-boarding for Graduate Students and Postdocs
+linktitle: Training and On-boarding for URAs, Graduate Students and Postdocs
 summary: Provides key information about on-boarding in the MPILAB at the University of Waterloo
 weight: 1
 
