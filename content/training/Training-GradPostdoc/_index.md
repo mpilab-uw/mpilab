@@ -57,7 +57,7 @@ We use a number of CFD tools. Some of these tools are in-house (see our UW git r
 * **<a href="http://pencil-code.nordita.org">Pencil code</a>**: Academic code used in our group for particle-laden turbulent flows.
 * **Basilik**
 * **<a href="https://palabos.unige.ch">Palabos</a>**: general-purpose computational fluid dynamics (CFD), with a kernel based on the lattice Boltzmann (LB) method. It is used in our group for porous flow simulations.
-* **<a href="http://openpnm.org>OpenPNM</a>**: Although formally not a CFD solver, this tool permits pore network modeling for porous media flows.
+* **<a href="http://openpnm.org">OpenPNM</a>**: Although formally not a CFD solver, this tool permits pore network modeling for porous media flows.
 
 
 
