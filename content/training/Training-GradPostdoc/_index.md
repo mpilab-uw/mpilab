@@ -5,7 +5,7 @@ summary: Provides key information about on-boarding in the MPILAB at the Univers
 weight: 1
 
 # Page metadata.
-title: Training
+title: On-boarding
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -22,24 +22,29 @@ menu:
 ---
 
 ## Summary
-This guide is meant to help you start your journey as a new graduate student or postdoctoral fellow in the MPILAB at the University of Waterloo.
+This guide is meant to help you start your journey as a new  URA, USRA, grad student, or postdoc in the MPILAB at the University of Waterloo.
 
-### Initial steps
-* **<a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/new-students">On-boarding for new students</a>**
-* **Website update**
-* **Opening Compute Canada Account**
 
+### Getting started
+* **Follow the <a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/new-students">on-boarding</a> from UW (grad students/postdoc only)**
+* **Website update:** download the <a href="https://www.dropbox.com/s/0h55d91qzyn22j3/_index.md?dl=0">template</a> fill-out the form (not in Word!) and upload the  completed form and mugshot <a href="https://www.dropbox.com/request/ZJrZzIxT4r91ewNBu7Tn">here</a>
+* **Open a Compute Canada Account (only if needed)**: follow the detailed steps <a href="https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/">here</a>. If you do open a Compute Canada account, you MUST follow the Compute Canada training.
+* **Open a Gitlab account**: UW has an on-site Gitlab repository which is actively used. Request access <a href="https://git.uwaterloo.ca/users/sign_in">here</a>.
 
 
 ## Communication
-Writing
-Figure generation
-
-Slack channel: mpilab-workspace.slack.com
-Email group serve: mpilab@googlegroups.com
+The main communication within the group is done through our google group. We also have an active Slack channel for quick discussions/questions. You can join both:
+* **Slack channel:** mpilab-workspace.slack.com
+* **Email group serve:** mpilab@googlegroups.com
 
 
-## Technical Skills
+## Research Tools
+### ste
+Familiarize yourself with a number of tools used to facilitate the Research
+
+* **Git**: A version management system. Each project will has a dedicated Git repository. The repository is used to store all related work for a project (reference papers, drafts, weekly reports, figures etc). Typically, numerical codes will be housed in their own repository. Raw results are not stored in the repo. It allows for multiple users and allows for a dated backup. Please ensure to push daily. To learn more about git.
+* Latex
+
 
 
 
@@ -52,77 +57,3 @@ Storage  NAS
 Computer usage
 Compute Canada
 git repository
-
-
-
-## Website update
-To update your website, please cut-paste the following and modify
-
-```toml
-# Display name
-title: <Name Student>
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: MASc, PhD, USRA, URA, Postdoc, Researcher
-
-# Organizations/Affiliations
-organizations:
-- name: University of Waterloo
-  url: "www.uwaterloo.ca"
-
-# Short bio (displayed in user profile at end of posts)
-bio:
-
-interests:
-- <list topics of scientific interest>
-
-education:
-  courses:
-  - course: M.A.Sc. in Mechanical Engineering
-    institution:  University of Waterloo
-    year: 2019
-  - course: B.Sc. in Mechanical Engineering
-    institution: University of Waterloo
-    year: 2018
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '<add as needed>'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
--
----
-
-<Enter short bio, 2 or 3 lines. Please write out thesis/research/primary domain of interest>
-```
