@@ -31,7 +31,8 @@ This guide is meant to help you start your journey as a new  URA, USRA, grad stu
 * **Open a Compute Canada Account (only if needed)**: follow the detailed steps <a href="https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/">here</a>. If you do open a Compute Canada account, you MUST follow the Compute Canada training.
 * **Open a Gitlab account**: UW has an on-site Gitlab repository which is actively used. Request access <a href="https://git.uwaterloo.ca/users/sign_in">here</a>.
 * **Open an Overleaf account**: UW has a site licence to Overleaf which is used for writing. Open an account <a href="https://www.overleaf.com">here</a>.
-
+* **Familiarize yourself with the terminal**: Most of the work we do will be using the terminal. Need to get used to it. If you are a Mac/Linux user, the terminal is directly integrated. If you are a Windows users, you can use the <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux</a> which provides you with a linux terminal. If you are new to the terminal,
+<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">take a 1h tutorial.</a>
 
 ## Communication
 The main communication within the group is done through our google group. We also have an active Slack channel for quick discussions/questions. You can join both:
@@ -47,6 +48,11 @@ Familiarize yourself with a number of tools used to facilitate the research
 * **Latex**: Latex is a standard typesetting standard used in scientific communication. To learn more about latex typesetting, <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">take this 30 minute tutorial</a>.
 * **Reference management**: To keep track of the references used for your research, a good reference management tool is helpful. These tools allow you to drag-and-drop pdfs to extract the meta-information (title, authors, etc.) and can be integrated into Overleaf. We primarily use  <a href="https://www.mendeley.com">Mendeley</a> although <a href="https://www.zotero.org">Zotero</a> is also used.
 * **Vector graphics**: For illustrations and vector graphics, we use <a href="https://inkscape.org">Inkscape</a>. A short tutorial can be found <a href="https://inkscape.org/learn/tutorials/">here</a>.
+
+### Coding
+Coding is always just around the corner. Sometimes the coding involves extending open-source software, although most of the time its used for post-processing (e.g. figure generation).
+* **<a href="https://docs.conda.io/en/latest/">Python</a>**: Python is our go-to tool. Even if most operating systems come with a pre-installed  version of python, it's advised to install the python via the Conda environment system.
+
 
 
 ### CFD solvers
