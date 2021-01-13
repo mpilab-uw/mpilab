@@ -71,7 +71,7 @@ For three-dimensional Visualizations, we primarily focus on two tools:
 For mesh generation, we use the following tools depending on the task:
 * **<a href="https://cfd.direct/openfoam/user-guide/v6-blockmesh/">BlockMesh</a>**: BlockMesh is a meshing tool for structured grids which is part of the OpenFoam framework. It provides the highest level of user control. It may also be the most challenging for complex geometries.
 * **<a href="https://gmsh.info">Gmsh</a>**: Permits structured and unstructured mesh generation. It's an open source tool and can be downloaded locally. Outputs are compatible with SU2, OpenFoam and other tools.
-
+* **<a href="https://www.pointwise.com">Pointwise</a>**: the group has an academic licence to this software. The licence can be accessed through our MME licence server on campus.
 
 
 
