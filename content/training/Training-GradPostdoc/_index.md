@@ -30,7 +30,7 @@ This guide is meant to help you start your journey as a new  URA, USRA, grad stu
 * **Website update:** download the <a href="https://www.dropbox.com/s/0h55d91qzyn22j3/_index.md?dl=0">template</a> fill-out the form (not in Word!) and upload the  completed form and mugshot <a href="https://www.dropbox.com/request/ZJrZzIxT4r91ewNBu7Tn">here</a>
 * **Open a Compute Canada Account (only if needed)**: follow the detailed steps <a href="https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/">here</a>. If you do open a Compute Canada account, you MUST follow the Compute Canada training.
 * **Open a Gitlab account**: UW has an on-site Gitlab repository which is actively used. Request access <a href="https://git.uwaterloo.ca/users/sign_in">here</a>.
-* **Open an Overleaf account**: UW has a site licence to Overleaf which is used for writing. Open an account <a href="https://www.overleaf.com">here</a>.
+* **Open an Overleaf account**: UW has a site license to Overleaf which is used for writing. Open an account <a href="https://www.overleaf.com">here</a>.
 * **Familiarize yourself with the terminal**: Most of the work we do will be using the terminal. Need to get used to it. If you are a Mac/Linux user, the terminal is directly integrated. If you are a Windows users, you can use the <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux</a> which provides you with a linux terminal. If you are new to the terminal,
 <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">take a 1h tutorial.</a>
 
@@ -61,7 +61,7 @@ We use a number of CFD tools. Some of these tools are in-house (see our UW git r
 * **<a href="https://su2code.github.io">SU2</a>**: Unstructured CFD code. Our workhorse for industrial project and complex geometries.
 * **<a href="https://www.openfoam.com">OpenFoam</a>**: Highly versatile CFD package for multi-physics problems.
 * **<a href="http://pencil-code.nordita.org">Pencil code</a>**: Academic code used in our group for particle-laden turbulent flows.
-* **Basilik**
+* **<a href="http://basilisk.fr">Basilisk</a>**
 * **<a href="https://palabos.unige.ch">Palabos</a>**: general-purpose computational fluid dynamics (CFD), with a kernel based on the lattice Boltzmann (LB) method. It is used in our group for porous flow simulations.
 * **<a href="http://openpnm.org">OpenPNM</a>**: Although formally not a CFD solver, this tool permits pore network modeling for porous media flows.
 
