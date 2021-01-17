@@ -20,7 +20,6 @@ menu:
     name: Overview
     weight: 1
 ---
----
 
 ## Installing on Niagara
 Git clone from the git repo:
