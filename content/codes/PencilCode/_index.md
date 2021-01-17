@@ -1,0 +1,51 @@
+---
+# Course title, summary, and position.
+linktitle: PencilCode
+summary:  <a href="https://github.com/jmreppsUWGrad/2D-Nanothermite"> downloaded here</a>
+weight: 1
+
+# Page metadata.
+title: Overview
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+---
+
+## Using Code
+,
+
+No, I didnt create a specific file to use pencil on niagara.
+I am currently using gcc/9.2.0 and openmpi/4.0.3. (after the new update)
+
+Please check the files in /scratch/theta_analysis/ for the new simulations.
+In Summary, you need these files to run a simulation:
+* run.in
+* start.in
+* print.in
+* src/cparam.local
+* src/Makefile.local
+* data/ (empty directory)
+* initial_condition/some_file.F (If you need to run specific IC, like in our case)
+
+Then to compile the code you need to go the the code directoy and run:
+* $ . sourceme.sh
+Then go to the sim directory and run:
+$ pc_setuprc
+$ pc_build -f GNU-GCC_MPI
+
+If you have all the required files, the file linking and compilation should be done successfully.
+
+Then you can submit a job as in "Chan-Rings.sh"
+if you run it on debug nodes, you can use the commands:
+$ ./start.csh (To initialize)
+$ ./run.csh (To run)
+$ ./start_run.csh (to initialize and run)
+
+Please let me know if it still fails.
+For the new cases, they started running this afternoon, the queue time was one day!
