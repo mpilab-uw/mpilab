@@ -26,11 +26,30 @@ Git clone from the git repo:
 ```toml
 git clone https://gitlab.com/unigespc/palabos.git
 ```
-
+You will need to load the following modules:
 ```toml
 module load cmake  gcc/9.2.0 openmpi/4.0.3
 ```
+To run a sample tutorial case, simply:
+```toml
+$ cd palabos/examples/showCases/cavity2d/build
+$ cmake ..
+$ make
+$ cd ..
+$ ./cavity2d
+```
 
+## Understanding the code
+The first starting point in understanding the code is in this article
+<a href="https://reader.elsevier.com/reader/sd/pii/S0898122120301267?token=B5B25552F55F42F61ACD08A96EF4654600D5B4CCC04C05A210EF20F0DF475380AA064E3C3F1F8A9DCDFA3D310B0B979B">: Latt et all. Computers and Mathematics Applications (2021)</a>.
+
+A good summary of the LB theory can be found here: <a href="https://www.youtube.com/watch?v=I82uCa7SHSQ"> youtube tutorial</a>
+
+Some slightly more accessible documentation can be found in additional MASc theses such as : <a href="https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=4219&context=gradschool_theses"> this </a>.
+
+There is a Palabos wiki cite on <a href="https://www.cfd-online.com/Wiki/Palabos">CFD Online</a>.
+
+To get your hands dirty, start by completing the <a href="https://palabos.unige.ch/get-started/palabos-tutorial/">tutorials</a>.
 
 
 
