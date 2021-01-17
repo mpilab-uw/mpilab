@@ -15,9 +15,18 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
+menu:
+  example:
+    name: Overview
+    weight: 1
+---
 ---
 
 ## Installing on Niagara
+Git clone from the git repo:
+```toml
+git clone https://gitlab.com/unigespc/palabos.git
+```
 
 ```toml
 module load cmake  gcc/9.2.0 openmpi/4.0.3
