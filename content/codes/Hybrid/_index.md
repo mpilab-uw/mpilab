@@ -54,5 +54,5 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/j/jphickey/jphickey/HybridX_build/
 
 Then please the full path to your binary when running:
 ```shell
-mpirun -np 40 /home/j/jphickey/jphickey/HybridX_build/install/bin/Hybrid -i uniform3.input
+mpirun -np 40 /home/j/jphickey/jphickey/HybridX_build/install/bin/Hybrid -i turbulentFlatPlate.input
 ```
