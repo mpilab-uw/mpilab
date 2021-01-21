@@ -53,3 +53,16 @@ $ ./start_run.csh (to initialize and run)
 
 Please let me know if it still fails.
 For the new cases, they started running this afternoon, the queue time was one day!
+
+
+## Installation on niagara
+```toml
+git clone https://github.com/pencil-code/pencil-code.git
+cd pencil-code
+. sourceme.sh
+```
+
+In the new environment, I did:
+```toml
+module load gcc/9.2.0
+```
