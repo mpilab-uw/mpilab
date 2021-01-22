@@ -10,7 +10,7 @@ date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-type: docs  # Do not modify. 
+type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -21,9 +21,42 @@ menu:
     weight: 1
 ---
 
-## Using Code
-,
+## Using the pencil python scripts (Niagara)
+To use the python scripts on Niagara, you can load the following modules (NiaEnv 2019b):
+```toml
+module load gcc/9.2.0 openmpi/4.0.3 python/3.8
+```
+To start a virtual environment and load the desired libraries, you need :
+```toml
+mkdir ~/.virtualenvs
+cd ~/.virtualenvs
+virtualenv --system-site-packages ~/.virtualenvs/pencil
+```
+Now that you have created a virtual environment, you can activate it:
+```toml
+source ~/.virtualenvs/pencil/bin/activate
+```
 
+To run the code, you need to set a couple things:
+```toml
+export PENCIL_HOME=~/pencil-code
+source ./pencil-code/sourceme.sh
+```
+
+Now we can install the needed libraries:
+```toml
+pip install h5py
+pip install plotly
+pip install  tqdm
+pip install  mpi4py
+pip install vtk
+```
+Now, you can go to a
+
+
+
+
+## Using Code
 No, I didnt create a specific file to use pencil on niagara.
 I am currently using gcc/9.2.0 and openmpi/4.0.3. (after the new update)
 
