@@ -73,7 +73,7 @@ In Summary, you need these files to run a simulation:
 Then to compile the code you need to go the the code directoy and run:
 * $ . sourceme.sh
 Then go to the sim directory and run:
-$ pc_setuprc
+$ pc_setupsrc
 $ pc_build -f GNU-GCC_MPI
 
 If you have all the required files, the file linking and compilation should be done successfully.
